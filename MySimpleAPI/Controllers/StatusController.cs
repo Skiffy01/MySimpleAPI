@@ -12,7 +12,7 @@ namespace MySimpleAPI.Controllers
         [HttpGet("GetStatus")]
         public async Task<IActionResult> GetStatus()
         {
-
+            // adding testing comment
             return Ok();
         }
     }
