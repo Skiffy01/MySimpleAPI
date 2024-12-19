@@ -1,0 +1,4 @@
+@MySimpleAPI_HostAddress = http://localhost:5075
+
+GET https://localhost:7264/api/Status/GetStatus
+Accept: application/json
